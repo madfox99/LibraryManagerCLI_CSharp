@@ -31,3 +31,11 @@ To create an executable (.exe) file for this project, follow these steps:
 
    ```shell
    dotnet publish -c Release -r win-x64
+
+---
+
+## Application GUI
+![Main Screen](./images/main.png)
+![Main Screen](./images/addBooks.png)
+![Main Screen](./images/addMembers.png)
+   
