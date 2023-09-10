@@ -38,6 +38,8 @@ To create an executable (.exe) file for this project, follow these steps:
 
 ## Application GUI
 ![Main Screen](./images/main.png)
+
 ![Add Books Screen](./images/addBooks.png)
+
 ![Add Members Screen](./images/addMembers.png)
    
