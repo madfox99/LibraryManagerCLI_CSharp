@@ -1,6 +1,8 @@
-# Library Manager CLI (C#) [For Windows]
+# Library Manager CLI (C#)
 
 A command-line interface (CLI) library management system for efficiently managing books, members, and transactions in your library.
+
+**Note:** This is only for Windows.
 
 ---
 
@@ -36,6 +38,6 @@ To create an executable (.exe) file for this project, follow these steps:
 
 ## Application GUI
 ![Main Screen](./images/main.png)
-![Main Screen](./images/addBooks.png)
-![Main Screen](./images/addMembers.png)
+![Add Books Screen](./images/addBooks.png)
+![Add Members Screen](./images/addMembers.png)
    
